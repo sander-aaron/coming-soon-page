@@ -10,3 +10,21 @@ h1 {
 p {
   font-family: 'Lora', serif;
 }
+
+shape {
+    position: relative;
+  }
+
+.text {
+  position: absolute;
+  left: 15%;
+  top: 10%;
+  background-color: transparent;
+}
+
+.links {
+  position: absolute;
+  right: 15%;
+  bottom: 15%;
+  background-color: transparent;
+}
