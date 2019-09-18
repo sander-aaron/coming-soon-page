@@ -2,6 +2,11 @@ html {
   font-family: 'Raleway', sans-serif;
 }
 
+h1 {
+  font-weight: 900;
+  color: #0023FF;
+}
+
 p {
   font-family: 'Lora', serif;
 }
